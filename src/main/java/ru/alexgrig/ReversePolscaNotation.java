@@ -6,6 +6,7 @@ import java.util.Map;
 
 
 //https://www.semestr.online/informatics/polish.php
+
 public class ReversePolscaNotation {
 
     private static Map<Character, Integer> priorityMap;
